@@ -14,4 +14,4 @@ Read about `Stateless` and `Stateful` widgets. Read how does `setState()` work. 
         - fourth to count/=2
 
 ## Submission
-Make a folder inside `Task1` folder and name it `submission`. Do `flutter create .` inside it to make a flutter project inside it. Implement the features and raise a PR when done.
+Make a new branch `task1` and make a folder inside `Task1` folder and name it `submission`. Do `flutter create .` inside it to make a flutter project inside it. Implement the features and raise a PR when done.
